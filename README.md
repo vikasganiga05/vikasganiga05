@@ -4,7 +4,7 @@ I'm a Full-Stack Web Developer from India. I really enjoy learning languages and
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on [Component Library](https://github.com/vikasganiga/vikasganiga-portfolio)
+- 🔭 I’m currently working on **Component Library**
 - 🌱 I’m currently learning **MERN Stack**
 - 👯 I’m looking to collaborate on **Open Source Projects with other developers**
 - 🤔 I’m looking for help with **Open Source**
