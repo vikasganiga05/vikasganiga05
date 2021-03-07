@@ -1,17 +1,13 @@
 # Hi there, I'm Vikas Ganiga - aka Vikas :wave:
 
-I'm a Full-Stack Web Developer from India. I really enjoy learning languages and frameworks like React, Laravel and Django, as well as work in WordPress. I also enjoy wireframing, prototyping, ui, ux, and design in general.
+I'm a Software Engineer based in Mangalore, India. specializing in building (and occasionally designing) exceptional websites, applications, and everything in between. Self-Taught JavaScript Developer with a strong drive and willingness to learn new things. I love creating simple and effective UI that optimizes user’s experience. My personal mission is to further my specialization in full-stack development, solve difficult problems, work with amazing people and develop cool products. I would also like to make a huge impact in the full-stack industry.
 
-Here are some ideas to get you started:
+Here are a few things you should know about me:
 
-- 🔭 I’m currently working on **Component Library**
-- 🌱 I’m currently learning **MERN Stack**
-- 👯 I’m looking to collaborate on **Open Source Projects with other developers**
-- 🤔 I’m looking for help with **Open Source**
-- 💬 Ask me about **Anything!**
-- 📫 How to reach me: (Waiting for a update...)
-- 😄 Pronouns: **He/Him**
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🔭 I’m currently working on **something cool :wink:**
+- 🌱 I’m currently learning **MERN Stack & DSA**
+- 💬 Ask me about **JavaScript, Full Stack development or any tech related stuff.**
+- 📫 How to reach me: Twitter - [@vikasganiga05](https://twitter.com/vikasganiga05)
 - ⚡ Fun fact: I like challenges
 
 ### 🛠 &nbsp;Tech Stack
@@ -46,19 +42,22 @@ Here are some ideas to get you started:
   ![InDesign](https://img.shields.io/badge/-InDesign-333333?style=flat&logo=adobe-indesign)
   
 ### 🤝🏻 &nbsp;Connect with Me
-  
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+[![vikasganiga05 | Twitter]([twitter-image])](twitter-link)
+[![vikasganiga05 | Instagram]([instagram-image])](instagram-link)
+[![vikasganiga05 | LinkedIn]([linkedin-image])](linkedin-link)
+[![vikasganiga05 | LinkTree]([linktree-image])](linktree-link)
 
 
-[website]: https://codeSTACKr.com
-[twitter]: https://twitter.com/codeSTACKr
-[youtube]: https://youtube.com/codeSTACKr
-[instagram]: https://instagram.com/codeSTACKr
-[linkedin]: https://linkedin.com/in/codeSTACKr
+[twitter-image]: https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg
+[instagram-image]: https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg
+[linkedin-image]: https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg
+[linktree-image]: https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg
+
+[twitter-link]: https://twitter.com/vikasganiga05
+[instagram-link]: https://instagram.com/vikasganiga05
+[linkedin-link]: https://linkedin.com/in/vikasganiga05
+[linktree-link]: https://linktr.ee/vikasganiga05
 
 
 
