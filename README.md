@@ -1,4 +1,4 @@
-# Hi there, I'm Vikas Ganiga - aka Vikas :wave:
+# Hi, I'm Vikas Ganiga
 
 I'm a Software Engineer based in Mangalore, India. specializing in building (and occasionally designing) exceptional websites, applications, and everything in between. Self-Taught JavaScript Developer with a strong drive and willingness to learn new things. I love creating simple and effective UI that optimizes user’s experience. My personal mission is to further my specialization in full-stack development, solve difficult problems, work with amazing people and develop cool products. I would also like to make a huge impact in the full-stack industry.
 
@@ -43,10 +43,10 @@ Here are a few things you should know about me:
   
 ### 🤝🏻 &nbsp;Connect with Me
 
-[![vikasganiga05 | Twitter][twitter-image]][twitter-link]
-[![vikasganiga05 | Instagram][instagram-image]][instagram-link]
-[![vikasganiga05 | LinkedIn][linkedin-image]][linkedin-link]
-[![vikasganiga05 | LinkTree][linktree-image]][linktree-link]
+[![vikasganiga05 | Twitter][twitter-image]][twitter-link] &nbsp; &nbsp;
+[![vikasganiga05 | Instagram][instagram-image]][instagram-link] &nbsp; &nbsp;
+[![vikasganiga05 | LinkedIn][linkedin-image]][linkedin-link] &nbsp; &nbsp;
+[![vikasganiga05 | LinkTree][linktree-image]][linktree-link] &nbsp; &nbsp;
 
 
 [twitter-image]: https://res.cloudinary.com/carriepresley/image/upload/c_scale,w_24/v1611433805/GitHub%20ReadMe/twitter_afinqs.png
