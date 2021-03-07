@@ -60,7 +60,7 @@ Here are a few things you should know about me:
 
 
   
-### 🤝🏻 &nbsp;Connect with Me
+### 🤝🏻 Connect with Me
 &nbsp; &nbsp; &nbsp;
 [![vikasganiga05 | Twitter][twitter-image]][twitter-link] &nbsp; &nbsp;
 [![vikasganiga05 | Instagram][instagram-image]][instagram-link] &nbsp; &nbsp;
