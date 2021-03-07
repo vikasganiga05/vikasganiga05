@@ -43,15 +43,15 @@ Here are a few things you should know about me:
   
 ### 🤝🏻 &nbsp;Connect with Me
 
-[![vikasganiga05 | Twitter]([twitter-image])](twitter-link)
-[![vikasganiga05 | Instagram]([instagram-image])](instagram-link)
-[![vikasganiga05 | LinkedIn]([linkedin-image])](linkedin-link)
-[![vikasganiga05 | LinkTree]([linktree-image])](linktree-link)
+[![vikasganiga05 | Twitter][twitter-image]][twitter-link]
+[![vikasganiga05 | Instagram][instagram-image]][instagram-link]
+[![vikasganiga05 | LinkedIn][linkedin-image]][linkedin-link]
+[![vikasganiga05 | LinkTree][linktree-image]][linktree-link]
 
 
-[twitter-image]: https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg
-[instagram-image]: https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg
-[linkedin-image]: https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg
+[twitter-image]: https://res.cloudinary.com/carriepresley/image/upload/c_scale,w_24/v1611433805/GitHub%20ReadMe/twitter_afinqs.png
+[instagram-image]: https://res.cloudinary.com/carriepresley/image/upload/c_scale,w_24/v1611433784/GitHub%20ReadMe/instagram_ohnyts.png
+[linkedin-image]: https://res.cloudinary.com/carriepresley/image/upload/c_scale,w_24/v1611433798/GitHub%20ReadMe/linkedin_yrslvn.png
 [linktree-image]: https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg
 
 [twitter-link]: https://twitter.com/vikasganiga05
