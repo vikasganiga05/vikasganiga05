@@ -49,10 +49,10 @@ Here are a few things you should know about me:
 [![vikasganiga05 | LinkTree][linktree-image]][linktree-link] &nbsp; &nbsp;
 
 
-[twitter-image]: https://res.cloudinary.com/neontuts/image/upload/c_scale,w_32/v1615091228/GitHub%20ReadMe/twitter_skdfew.png
-[instagram-image]: https://res.cloudinary.com/neontuts/image/upload/c_scale,w_32/v1615091228/GitHub%20ReadMe/instagram_hjwtbt.png
-[linkedin-image]: https://res.cloudinary.com/neontuts/image/upload/c_scale,w_32/v1615091227/GitHub%20ReadMe/linkedin_elee1c.png
-[linktree-image]: https://res.cloudinary.com/neontuts/image/upload/c_scale,w_32/v1615091227/GitHub%20ReadMe/iconfinder_Website_Link-01_2036291_pphqmj.png
+[twitter-image]: https://res.cloudinary.com/neontuts/image/upload/c_scale,w_24/v1615091228/GitHub%20ReadMe/twitter_skdfew.png
+[instagram-image]: https://res.cloudinary.com/neontuts/image/upload/c_scale,w_24/v1615091228/GitHub%20ReadMe/instagram_hjwtbt.png
+[linkedin-image]: https://res.cloudinary.com/neontuts/image/upload/c_scale,w_24/v1615091227/GitHub%20ReadMe/linkedin_elee1c.png
+[linktree-image]: https://res.cloudinary.com/neontuts/image/upload/c_scale,w_24/v1615091227/GitHub%20ReadMe/iconfinder_Website_Link-01_2036291_pphqmj.png
 
 [twitter-link]: https://twitter.com/vikasganiga05
 [instagram-link]: https://instagram.com/vikasganiga05
