@@ -42,7 +42,7 @@ Here are a few things you should know about me:
   ![InDesign](https://img.shields.io/badge/-InDesign-333333?style=flat&logo=adobe-indesign)
   
 ### 🤝🏻 &nbsp;Connect with Me
-
+&nbsp; &nbsp; &nbsp;
 [![vikasganiga05 | Twitter][twitter-image]][twitter-link] &nbsp; &nbsp;
 [![vikasganiga05 | Instagram][instagram-image]][instagram-link] &nbsp; &nbsp;
 [![vikasganiga05 | LinkedIn][linkedin-image]][linkedin-link] &nbsp; &nbsp;
