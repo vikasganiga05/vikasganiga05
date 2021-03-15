@@ -1,6 +1,6 @@
 # Hi, I'm Vikas Ganiga <img src="https://raw.githubusercontent.com/vikasganiga05/vikasganiga05/master/wave.gif" width="30px">
 
-I'm a Full Stack Developer based in Mangalore, India. specializing in building (and occasionally designing) exceptional websites, applications, and everything in between. Self-Taught JavaScript Developer with a strong drive and willingness to learn new things. I love creating simple and effective UI that optimizes user’s experience. My personal mission is to further my specialization in full-stack development, solve difficult problems, work with amazing people and develop cool products. I would also like to make a huge impact in the full-stack industry.
+I'm a Full Stack Developer, Tech Enthusiast based in Mangalore, India. specializing in building (and occasionally designing) exceptional websites, applications, and everything in between. Self-Taught JavaScript Developer with a strong drive and willingness to learn new things. I love creating simple and effective UI that optimizes user’s experience. My personal mission is to further my specialization in full-stack development, solve difficult problems, work with amazing people and develop cool products. I would also like to make a huge impact in the full-stack industry.
 
 Here are a few things you should know about me:
 
