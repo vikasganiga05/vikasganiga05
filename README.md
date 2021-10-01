@@ -12,7 +12,7 @@ Self-Taught JavaScript Developer with a strong drive and willingness to learn ne
 - 👯 I’m looking to collaborate with other Developers.
 - 🥅 Goals: Contribute more to Open Source projects in 2021.
 - 📫 How to reach me: **Twitter - [@vikasganiga05](https://twitter.com/vikasganiga05)**
-- ⚡ Fun fact: I like Problem Solving
+- ⚡ Fun fact: I like Problem Solving.
 
 ### 🛠 Technologies & Skills
 
