@@ -14,6 +14,16 @@ Self-Taught JavaScript Developer with a strong drive and willingness to learn ne
 - 💬 Ask me about anything [here](https://github.com/vikasganiga05/vikasganiga05/discussions)
 - ⚡ Fun fact: I like problem solving and I'm a sportsman.
 
+### 🤝🏻 Connect with Me
+&nbsp; &nbsp; &nbsp;
+[![vikasganiga05 | Twitter][twitter-image]][twitter-link]
+&nbsp; &nbsp;
+[![vikasganiga05 | Instagram][instagram-image]][instagram-link]
+&nbsp; &nbsp;
+[![vikasganiga05 | LinkedIn][linkedin-image]][linkedin-link]
+&nbsp; &nbsp;
+[![vikasganiga05 | LinkTree][linktree-image]][linktree-link]
+
 ### 🛠 Technologies & Skills
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=222222)
@@ -63,15 +73,8 @@ Self-Taught JavaScript Developer with a strong drive and willingness to learn ne
 ![Insomnia](https://img.shields.io/badge/Insomnia-5849BE?style=flat-square&logo=insomnia&logoColor=white)
 
 
-  
-### 🤝🏻 Connect with Me
-&nbsp; &nbsp; &nbsp;
-[![vikasganiga05 | Twitter][twitter-image]][twitter-link] &nbsp; &nbsp;
-[![vikasganiga05 | Instagram][instagram-image]][instagram-link] &nbsp; &nbsp;
-[![vikasganiga05 | LinkedIn][linkedin-image]][linkedin-link] &nbsp; &nbsp;
-[![vikasganiga05 | LinkTree][linktree-image]][linktree-link] &nbsp; &nbsp;
 
-
+<!-- Reference Links -->
 [twitter-image]: https://res.cloudinary.com/neontuts/image/upload/c_scale,w_24/v1615091228/GitHub%20ReadMe/twitter_skdfew.png
 [instagram-image]: https://res.cloudinary.com/neontuts/image/upload/c_scale,w_24/v1615091228/GitHub%20ReadMe/instagram_hjwtbt.png
 [linkedin-image]: https://res.cloudinary.com/neontuts/image/upload/c_scale,w_24/v1615091227/GitHub%20ReadMe/linkedin_elee1c.png
@@ -81,7 +84,6 @@ Self-Taught JavaScript Developer with a strong drive and willingness to learn ne
 [instagram-link]: https://instagram.com/vikasganiga05
 [linkedin-link]: https://linkedin.com/in/vikasganiga05
 [linktree-link]: https://linktr.ee/vikasganiga05
-
 
 
 
