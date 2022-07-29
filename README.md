@@ -1,8 +1,8 @@
 # Hi, I'm Vikas Ganiga <img src="https://raw.githubusercontent.com/vikasganiga05/vikasganiga05/master/assets/wave.gif" width="40">
 
-I'm a Full Stack Developer, Open Source and Tech Enthusiast based in Mangalore, India. specializing in building (and occasionally designing) exceptional websites, applications, and everything in between. I have a huge passion in developing applications using PHP & MySQL, and now it is totally shifting to the trending MERN (MongoDB, ExpressJS, ReactJS, NodeJS) Stack.
+Hi, I am a self-taught Full Stack Developer, Open Source, and Tech Enthusiast from India. I am primarily focused on JavaScript, but my learning style allows me to adapt to new languages and ideologies with ease. I've been building stuff on the web since 2019, I've made countless side projects. I like creating simple and effective UI that optimizes the user experience.
 
-Self-Taught JavaScript Developer with a strong drive and willingness to learn new things. I love creating simple and effective UI that optimizes user’s experience. My personal mission is to further my specialization in full-stack development, contribute to open-source projects, solve difficult problems, work with amazing people and develop cool products. I would also like to make a huge impact in the full-stack industry.
+I also love doing open source development and contributions, It gives me a wonderful feeling of achievement and joy which I cannot explain in words. My experience ranges from small personal projects to full production applications capable of scaling and growing through well planned modularity and extensibility.
 
 #### Here are a few things you should know about me:
 
