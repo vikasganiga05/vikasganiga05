@@ -14,17 +14,18 @@ I also love doing open source development and contributions. It gives me a wonde
 - 💬 Ask me about anything [here](https://github.com/vikasganiga05/vikasganiga05/discussions)
 - ⚡ Fun fact: I like problem solving and I'm a sportsman.
 
-### 🤝🏻 Connect with Me
-&nbsp; &nbsp; &nbsp;
-[![vikasganiga05 | Twitter][twitter-image]][twitter-link]
-&nbsp; &nbsp;
-[![vikasganiga05 | Instagram][instagram-image]][instagram-link]
-&nbsp; &nbsp;
-[![vikasganiga05 | LinkedIn][linkedin-image]][linkedin-link]
-&nbsp; &nbsp;
-[![vikasganiga05 | LinkTree][linktree-image]][linktree-link]
+## 🤝🏻 Connect with Me
 
-### 🛠 Technologies & Skills
+&nbsp; &nbsp; &nbsp; &nbsp;
+<a href="https://twitter.com/vikasganiga05"><img src="https://res.cloudinary.com/neontuts/image/upload/v1659228895/Icons/twitter_mtlkia.png" title="Twitter | vikasganiga05" alt="Twitter Account" width="30"/></a>
+&nbsp; &nbsp;
+<a href="https://linkedin.com/in/vikasganiga05"><img src="https://res.cloudinary.com/neontuts/image/upload/v1659228895/Icons/linkedin_xaaedy.png" title="LinkedIn | vikasganiga05" alt="LinkedIn Account" width="30"/></a>
+&nbsp; &nbsp;
+<a href="https://instagram.com/vikasganiga05"><img src="https://res.cloudinary.com/neontuts/image/upload/v1659228895/Icons/instagram_amcnyc.png" title="Instagram | vikasganiga05" alt="Instagram Account" width="30"/></a>
+&nbsp; &nbsp;
+<a href="https://linktr.ee/vikasganiga05"><img src="https://res.cloudinary.com/neontuts/image/upload/v1659228895/Icons/linktree_pqyzqo.png" title="LinkTree | vikasganiga05" alt="LinkTree Account" width="30"/></a>
+
+## 🛠 Technologies & Skills
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=222222)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
@@ -71,19 +72,6 @@ I also love doing open source development and contributions. It gives me a wonde
 ![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat-square&logo=visual%20studio%20code&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ![Insomnia](https://img.shields.io/badge/Insomnia-5849BE?style=flat-square&logo=insomnia&logoColor=white)
-
-
-
-<!-- Reference Links -->
-[twitter-image]: https://res.cloudinary.com/neontuts/image/upload/c_scale,w_24/v1615091228/GitHub%20ReadMe/twitter_skdfew.png
-[instagram-image]: https://res.cloudinary.com/neontuts/image/upload/c_scale,w_24/v1615091228/GitHub%20ReadMe/instagram_hjwtbt.png
-[linkedin-image]: https://res.cloudinary.com/neontuts/image/upload/c_scale,w_24/v1615091227/GitHub%20ReadMe/linkedin_elee1c.png
-[linktree-image]: https://res.cloudinary.com/neontuts/image/upload/c_scale,w_24/v1615091227/GitHub%20ReadMe/iconfinder_Website_Link-01_2036291_pphqmj.png
-
-[twitter-link]: https://twitter.com/vikasganiga05
-[instagram-link]: https://instagram.com/vikasganiga05
-[linkedin-link]: https://linkedin.com/in/vikasganiga05
-[linktree-link]: https://linktr.ee/vikasganiga05
 
 
 
