@@ -6,7 +6,7 @@ I also love doing open source development and contributions. It gives me a wonde
 
 #### Here are a few things you should know about me:
 
-- 🔭 I’m currently working on **something cool :wink:**
+- 🔭 I’m currently working on **[journey-book](https://github.com/collab-community/journey-book/)**
 - 🌱 I’m currently learning **MERN Stack & DSA**.
 - 👯 I’m looking to collaborate with other Developers.
 - 🥅 Goals: Contribute more to Open Source projects.
